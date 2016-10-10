@@ -10,6 +10,10 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sprockets'
 gem 'simple_form'
 gem 'devise'
+gem 'carrierwave', '>= 1.0.0.beta', '< 2.0'
+gem 'fog'
+gem 'figaro'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 3.2'
 # Use Uglifier as compressor for JavaScript assets
